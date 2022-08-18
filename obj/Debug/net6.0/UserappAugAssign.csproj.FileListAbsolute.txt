@@ -1,0 +1,15 @@
+C:\Users\saivignesh\source\repos\UserappAugAssign\bin\Debug\net6.0\UserappAugAssign.exe
+C:\Users\saivignesh\source\repos\UserappAugAssign\bin\Debug\net6.0\UserappAugAssign.deps.json
+C:\Users\saivignesh\source\repos\UserappAugAssign\bin\Debug\net6.0\UserappAugAssign.runtimeconfig.json
+C:\Users\saivignesh\source\repos\UserappAugAssign\bin\Debug\net6.0\UserappAugAssign.dll
+C:\Users\saivignesh\source\repos\UserappAugAssign\bin\Debug\net6.0\UserappAugAssign.pdb
+C:\Users\saivignesh\source\repos\UserappAugAssign\obj\Debug\net6.0\UserappAugAssign.csproj.AssemblyReference.cache
+C:\Users\saivignesh\source\repos\UserappAugAssign\obj\Debug\net6.0\UserappAugAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saivignesh\source\repos\UserappAugAssign\obj\Debug\net6.0\UserappAugAssign.AssemblyInfoInputs.cache
+C:\Users\saivignesh\source\repos\UserappAugAssign\obj\Debug\net6.0\UserappAugAssign.AssemblyInfo.cs
+C:\Users\saivignesh\source\repos\UserappAugAssign\obj\Debug\net6.0\UserappAugAssign.csproj.CoreCompileInputs.cache
+C:\Users\saivignesh\source\repos\UserappAugAssign\obj\Debug\net6.0\UserappAugAssign.dll
+C:\Users\saivignesh\source\repos\UserappAugAssign\obj\Debug\net6.0\refint\UserappAugAssign.dll
+C:\Users\saivignesh\source\repos\UserappAugAssign\obj\Debug\net6.0\UserappAugAssign.pdb
+C:\Users\saivignesh\source\repos\UserappAugAssign\obj\Debug\net6.0\UserappAugAssign.genruntimeconfig.cache
+C:\Users\saivignesh\source\repos\UserappAugAssign\obj\Debug\net6.0\ref\UserappAugAssign.dll
