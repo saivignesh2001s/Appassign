@@ -15,7 +15,7 @@
             Console.WriteLine("Password");
             password = Console.ReadLine();
             if ((fname == uname) && (lname == password)&&(!String.IsNullOrEmpty(uname))&&(!String.IsNullOrEmpty(password)))
-                Console.WriteLine("Successfully logged in");
+                Console.WriteLine("Welcome to my app"+" "+fname+lname);
             else
             {
 
